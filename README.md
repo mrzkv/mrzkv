@@ -11,7 +11,7 @@
 Python 3.10 - 3.13 • FastAPI • Aiogram
 
 **Databases:**
-PostgreSQL 13+ • Redis • SQL/NoSQL
+PostgreSQL 13+ • Redis
 
 **DevOps & Tools:**
 Docker • Docker Compose • Git • GitLab • CI/CD • Linux • Nginx
